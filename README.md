@@ -1,3 +1,13 @@
+# Tutorials
+
+Step by step tutorials that build real, tested projects from a blank folder, with install steps, full file paths, and a check after each step.
+
+- **Python AI Native** is a six-chapter path from a Django Ninja API, to an MCP server and agent, to a deep agent, a hand-written agent harness, evals, and agent memory with dreams.
+- **Projects** put the chapters to work, starting with an AI second brain built on Obsidian, a nightly dream agent and a Mac mini.
+- **Companions** cover the Python and Django underneath: Python 80/20, Python for JavaScript developers, and Django from scratch.
+
+---
+
 # Python AI Native: Build Production AI
 
 A step by step path from a real API to the parts that production AI systems are made of. You build the API first, put an MCP server on it, an agent on that, and then the harness, evals and memory that make the agent trustworthy. Every chapter is a separate tutorial that builds a real, tested project from a blank folder, with install steps, full file paths, and a check after each step.
